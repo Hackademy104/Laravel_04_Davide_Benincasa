@@ -1,3 +1,10 @@
-h1 {
-    background-color: aqua;
+
+
+.header {
+    background-image: url('https://img.freepik.com/free-vector/dark-hexagonal-background-with-gradient-color_79603-1410.jpg?w=740&t=st=1700557646~exp=1700558246~hmac=9d9ad7a1f201ef9752a3b57bac308b295ee2a51e7cdefed5000ae07d2f709bf6');
+    height: 40vh;
+}
+
+footer {
+    justify-self: end;
 }
